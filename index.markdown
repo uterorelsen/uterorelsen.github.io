@@ -3,7 +3,7 @@ title: Uterörelsen
 layout: home
 ---
 
-
+![uterorelsen_logo.png](/uploads/uterorelsen_logo.png)
 
 Här kommer snart en hemsida.
 

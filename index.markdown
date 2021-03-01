@@ -3,7 +3,11 @@ title: Uterörelsen
 layout: home
 ---
 
-![uterorelsen_logo.png](/uploads/uterorelsen_logo.png)
+![uterorelsen_logo_300px.png](/uploads/uterorelsen_logo_300px.png)
+
+# På gång
+
+## Mobile Clubbing Örebro
 
 Här kommer snart en hemsida, tills vidare se:
 

@@ -1,6 +1,6 @@
 ---
 title: Uterörelsen
-layout: home
+layout: default
 ---
 
 ![uterorelsen_logo_300px.png](/uploads/uterorelsen_logo_300px.png)

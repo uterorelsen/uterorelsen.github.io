@@ -7,7 +7,7 @@ layout: default
 
 # På gång
 
-## Mobile Clubbing Örebro
+## Mobile Clubbing Mondays
 
 Här kommer snart en hemsida, tills vidare se:
 

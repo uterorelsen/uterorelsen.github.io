@@ -5,11 +5,11 @@ layout: default
 
 ![uterorelsen_logo_300px.png](/uploads/uterorelsen_logo_300px.png)
 
-# På gång
+# Dansa i Örebro
 
-## Mobile Clubbing Mondays
-
-Här kommer snart en hemsida, tills vidare se:
+## Mobile Clubbing Mondays - Örebro dansar utomhus
+Måndag 3 mars, 18:00-19:00.
+[Se detaljer på Facebook.](https://www.facebook.com/events/143511464296354)
 
 Facebook: [Uterörelsen](https://www.facebook.com/uterorelsen)
 

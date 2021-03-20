@@ -8,8 +8,8 @@ layout: default
 # Dansa i Örebro
 
 ## Mobile Clubbing Mondays - Örebro dansar utomhus
-Måndag 3 mars, 18:00-19:00.
-[Se detaljer på Facebook.](https://www.facebook.com/events/143511464296354)
+Måndagar, 18:00-19:00.
+[Se detaljer på Facebook.](https://www.facebook.com/uterorelsen/events/)
 
 Facebook: [Uterörelsen](https://www.facebook.com/uterorelsen)
 
